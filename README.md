@@ -1,6 +1,6 @@
-![License](https://img.shields.io/github/license/<your-username>/awesome-free-developer-tools)
+![License](https://img.shields.io/github/license/akidrafter/awesome-free-developer-tools)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![GitHub issues](https://img.shields.io/github/issues/<your-username>/awesome-free-developer-tools)
+![GitHub issues](https://img.shields.io/github/issues/akidrafter/awesome-free-developer-tools)
 # Awesome Free Developer Tools
 
 > A community-driven list of genuinely free tools and resources for developers.
