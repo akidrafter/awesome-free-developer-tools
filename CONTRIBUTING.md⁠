@@ -1,0 +1,9 @@
+# Contributing Guidelines
+
+Thank you for helping grow this list!
+
+## How to add a resource:
+1. Ensure the tool has a **genuinely free tier** (not just a 7-day trial).
+2. Keep the description short (under 15 words) and neutral.
+3. Place your suggestion in alphabetical order within the matching category.
+4. Submit a Pull Request with a clear title (e.g., `Add Supabase to Database section`).
