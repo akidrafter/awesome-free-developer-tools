@@ -6,6 +6,7 @@
 > A community-driven list of genuinely free tools and resources for developers.
 
 ## Code Editors
+- [Glim](https://github.com/NeoPanic/Glim) - macOS file viewer with Markdown preview and basic text editing.
 - [VS Code](https://code.visualstudio.com/) - Extensible code editor by Microsoft.
 
 ## Free Hosting
