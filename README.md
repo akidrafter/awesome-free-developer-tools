@@ -12,6 +12,10 @@
 - [GitHub Pages](https://pages.github.com/) - Host static websites directly from your repo.
 - [Vercel](https://vercel.com/) - Fast deployment for front-end frameworks.
 
+## JSON Tools
+
+- [BestJSON](https://bestjson.com/) - Format, validate, preview repairs, and compare JSON locally in the browser.
+
 ## Contributing
 We welcome additions! Please submit a Pull Request to add your favorite free developer tool.
 
