@@ -12,6 +12,10 @@
 - [GitHub Pages](https://pages.github.com/) - Host static websites directly from your repo.
 - [Vercel](https://vercel.com/) - Fast deployment for front-end frameworks.
 
+## Networking
+
+- [Kilobat CLI](https://github.com/seifip/kilobat-cli) - macOS network diagnostics with JSON output and a local MCP server.
+
 ## Contributing
 We welcome additions! Please submit a Pull Request to add your favorite free developer tool.
 
